@@ -46,7 +46,7 @@ function animateOpen(){
  
 
 // Set the date we're counting down to
-var countDownDate = new Date("Jul 7, 2022 9:30:00").getTime();
+var countDownDate = new Date("Aug 28, 2022 11:30:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -131,9 +131,9 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 25th Mar, 2022!', styles);
+console.log('\n\n%c SAVE THE DATE: 28th Aug, 2022!', styles);
 
-console.log('%cYour presence is requested!%c\n\nRegards: Aswathy', styles1, styles2);
+console.log('%cYour presence is requested!%c\n\nRegards: Covid control Cell', styles1, styles2);
 
 console.log(
     `%cSangathi set aayi!\n\n`,
